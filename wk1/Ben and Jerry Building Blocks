@@ -1,0 +1,116 @@
+<html>
+	<head>
+	<met charset="UTF-8"
+	<title>BEN&JERRY's Ice Cream Flavors</title>
+</head>
+
+<body>
+	<h1> Ben & Jerry's </h1>
+	<nav id="left" class="menu"
+		<ul>
+			<li>flavors</li>
+			<li>shops & catering</li>
+			<li>values</li>
+			<li>about us</li>
+		</ul>
+	</nav>
+	<div>
+	
+	<h1>Our Flavors</h1>
+	<body>
+		<p> How do you like your euphoria? There are so many ways to enjoy Ben & Jerry’s. We cover our bases with good old chocolate and award-winning vanilla, but then go so much further, with something for everyone. Go ahead, give it a swirl... </p>
+
+	<h2>Select a product type:</h2>
+	<div>
+		<img src="https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/pint/open-closed-pints/cherry-garcia-landing.png">
+		<h1> <a href="https://www.benjerry.com/flavors/ice-cream-pints" </h1> 
+		<p>Cherry Garcia</p>
+	</div>
+	<div>
+		<img src="https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/pint/open-closed-pints/netflix-chilld-landing.png">
+		<h1> <a href=https://www.benjerry.com/flavors/ice-cream-pints</h1>
+		<p>Netflix Original Flavors</p>
+	</div>
+	<div>
+		<img src=https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/pint-slices/choc-chip-cookie-dough-pint-slices-3pack-landing.png>
+		<h1> <a href=www.benjerry.com/flavors/ice-cream-pints</h1>
+		<p>Pint Slices</p>
+	</div>
+	<div>
+		<img src="https:///files/live/sites/systemsite/files/flavors/products/us/dough-chunks/chocolate-chip-cookie-dough-chunks-landing.png">
+		<h1> <a href=www.benjerry.com/flavors/ice-cream-pints</h1>
+		<p>Cookie Dough Chunks</p>
+	</div>
+	<div>
+		<img src="https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/pint/open-closed-pints/pb-and-cookies-non-dairy-landing-green.png">
+		<h1> <a href=www.benjerry.com/flavors/ice-cream-pints</h1>
+		<p>Non-Dairy Pints</p>
+	</div>
+	<div>
+		<img src="https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/pint/open-closed-pints/chocolate-milk-cookies-moophoria-landing1.png">
+		<h1><a href=www.benjerry.com/flavors/ice-cream-pints</h1>
+		<p>Moo-phoria Light Ice Cream</p>
+	</div>
+	<div>
+		<img src="https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/pint/open-closed-pints/brownie-batter-core-landing.png">
+		<h1><a href=www.benjerry.com/flavors/ice-cream-pints></h>
+		<p>Cores Pints</p>
+	</div>
+	<div> 
+		<img src="https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/pint/salted-caramel-brownie-topped-detail.png">
+		<h1><a href=www.benjerry.com/flavors/ice-cream-pints></h1>
+		<p>Topped Ice Cream</p>
+	</div>
+	<div>
+		<img src="https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/pint/open-closed-pints/half-baked-froyo-landing1.png">
+		<h1><a href=www.benjerry.com/flavors/ice-cream-pints></h1>
+		<p>Frozen Yogurt Pints</p>
+	</div>
+	<div>
+		<img src="https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/pint/open-closed-pints/chunky-monkey-landing.png">
+		<h1><a href=www.benjerry.com/flavors/ice-cream-pints></h1>
+		<p>Certified Gluten-Free Ice Cream Flavors</p>
+	</div>
+	<div>
+		<img src="https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/bulk/berry-berry-sorbet-bulk-landing.png">
+		<h1><a href=www.benjerry.com/flavors/ice-cream-pints></h1>
+		<p>Scoop Shop Flavors</p>
+	</div>
+	<div>
+		<img src=https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/bulk/berry-berry-sorbet-bulk-landing.png>
+		<h1><a href=https://www.benjerry.com/flavors/ice-cream-shop-flavors</h1>
+		<p>Scoop Shop Flavors</p>
+	</div>
+	<div>
+		<img src=https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/mini-cups/open-closed-mini-cups/americone-mini-landing.png>
+		<h1><a href=https://www.benjerry.com/flavors/ice-cream-cups></h1>
+		<p>Mini Cups</p>
+	</div>
+	<div>
+		<img src=https://www.benjerry.com/files/live/sites/systemsite/files/flavors/products/us/doggie-desserts/pontchs-mix-mini-detail.png>
+		<h1><a href=https://www.benjerry.com/flavors/doggie-desserts></h1>
+	</div>
+	<div>
+		<img src= //www.youtube-nocookie.com/embed/owTuPSH-PK8?enablejsapi=1&origin=https%3A%2F%2Fwww.benjerry.com>
+	</div>
+	<div>
+		<h1>< a href= https://www.benjerry.com/whats-new/2020/12/top-flavors-2020></h1>
+		<p>See Top Flavors</p>
+	</div>
+	<div>
+		<h1>Our Favorite Flavor Stories</h1>
+	</div>
+
+	<div>
+		<li>The Melt Report 8 Fascinating Facts About Melting Ice Cream <a href= https://www.benjerry.com/whats-new/2016/melting-ice-cream-facts></li>
+		<li>Our 12 Longest-Serving Flavors, Definitively Ranked<a href= https://www.benjerry.com/whats-new/2016/longest-serving-flavors></li>
+	</div>
+	<div>
+		<h3>Sweeten Up Your Inbox!<h3>
+		<p> Subscribe now and we'll make sure you get the inside scoop on Ben & Jerry's fun and flavors! It's like dessert for your inbox, and you're going to want seconds.</p>
+	</div>
+	<div>
+		<h4>Subscribe</h4>
+
+
+
