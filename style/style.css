@@ -1,13 +1,13 @@
 /* This styles the entire html body */
 body {
-  background-color: grey;
+  background-color: pink;
   color: grey;
   font-family: "Roboto";
 }
 
 /* this styles only list elements */
 li {
-  color: black;
+  color: grey;
 }
 
 /* this styles all link elements */
