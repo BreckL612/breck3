@@ -61,7 +61,7 @@ function endGame() {
 }
 
 
-//From: https://www.youtube.com/watch?v=AaGK-fj-BAM
+//From: https://p5js.org/examples/interaction-snake-game.html
 
 function keyPressed() {
   if (home == "welcomeScreen") {
@@ -81,7 +81,7 @@ function keyPressed() {
   }
 }
 
-//THIS IS BORROWED
+//THIS IS BORROWED https://p5js.org/examples/interaction-snake-game.html
 function Caterpillar() {
   this.x = 0;
   this.y = 0;
